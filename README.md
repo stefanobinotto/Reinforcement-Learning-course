@@ -1,5 +1,7 @@
 # Reinforcement Learning course homeworks
-This repo contains my submitted labs and the 2 final evaluated homeworks for the Reinforcement Learning course at Unipd 2022/23.
+This repo contains my submitted labs and the 2 final evaluated homeworks for the Reinforcement Learning course at UniPD - DEI 2022/23.
+
+.
 
 ## Lab 1 - The 10 Armed Testbed
 
