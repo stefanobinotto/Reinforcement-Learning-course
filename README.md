@@ -3,7 +3,7 @@ This repo contains my submitted labs and the 2 final evaluated homeworks for the
 
 ## Lab 1 - The 10 Armed Testbed
 
-The main goal of this lab is to take the first steps in the RL world by solving the multi-armed bandit problem, which is addressed through epsilon-greedy, UCB and and gradient bandit algorithms.
+The main goal of this lab is to take the first steps in the RL world by solving the multi-armed bandit problem, which is addressed through epsilon-greedy, UCB and gradient bandit algorithms.
 
 Notebook: [Lab1](https://github.com/stefanobinotto/Reinforcement-Learning-course/tree/main/lab1)
 
