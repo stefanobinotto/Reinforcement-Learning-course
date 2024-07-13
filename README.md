@@ -55,12 +55,11 @@ The first part of the homework deals with the Multi Armed Bandit Problem. In par
 
 The second part of the homework consists of a modification of the Jack's Car Rental problem.
 
-Notebook: [HW1](https://github.com/stefanobinotto/Reinforcement-Learning-course/blob/main/homework_projects/2052421_binotto_stefano_hw01.ipynb) | Assessment: 33.3/100
-
+Notebook: [HW1](https://github.com/stefanobinotto/Reinforcement-Learning-course/blob/main/homework_projects/2052421_binotto_stefano_hw01.ipynb) | Assessment: 0.5/1.5
 ## Homework 2 - Reinforcement Learning with Jackblack
 
 In particular, I will have to implement Monte Carlo algorithm, SARSA-λ and SARSA-λ with action-value function approximation.
 
 In order to test the implementations, I need an environment. Therefore I need also to complete the given code for a modified version of Blackjack game seen in class, called Jackblack, invented by Jack from the car rental.
 
-Notebook: [HW2](https://github.com/stefanobinotto/Reinforcement-Learning-course/blob/main/homework_projects/2052421_binotto_stefano_hw02.ipynb) | Assessment: 80/100
+Notebook: [HW2](https://github.com/stefanobinotto/Reinforcement-Learning-course/blob/main/homework_projects/2052421_binotto_stefano_hw02.ipynb) | Assessment: 2/2.5
