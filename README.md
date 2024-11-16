@@ -20,7 +20,8 @@ Notebook: [Lab2](https://github.com/stefanobinotto/Reinforcement-Learning-course
 With the following notebook we will see in action different algorithms related to the Monte Carlo structure:
 1. Monte Carlo algorithm: every-visit implementation, for prediction only
 2. Monte Carlo Exploring-Starts: first-visit implementation, for control
-3. Off-Policy Monte Carlo: both ordinary and weighted sampling
+3. Off-Policy Monte Carlo: both ordinary and weighted sampling, for prediction
+4. 3. Off-Policy Monte Carlo: weighted sampling implementation, for control
 
 We will address both the tasks of prediction and control, and we will make use of on-policy and off-policy schemes.
 
